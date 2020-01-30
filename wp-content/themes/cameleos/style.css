@@ -1,0 +1,29 @@
+/*
+Theme Name: Cameleos.pl
+Author: Konrad Kudra
+Description:  Kamerowanie imprez i eventów
+Version: 1.0
+Text Domain: cameleos
+Tags: cameleos, cameleos.pl, kamerowanie, filmowanie, pokazy mody, imprezy
+*/
+
+/*--------------------------------------------------------------
+  NORMALIZE
+--------------------------------------------------------------*/
+
+body{
+  margin:0;
+}
+
+*, *:after, *:before{
+  box-sizing: border-box;
+}
+
+
+/*--------------------------------------------------------------
+  CUSTOM
+--------------------------------------------------------------*/
+
+header.main-header{
+
+}
